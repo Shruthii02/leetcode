@@ -14,7 +14,7 @@
 # In[7]:
 
 
-needle = input("Enter the needle  : ")
+needle = input("Enter the needle : ")
 haystack = input("Enter the haystack : ")
 def FirstOccurrence (needle,haystack):
     if len(needle) == 0:
